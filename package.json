@@ -1,0 +1,27 @@
+{
+  "name": "micro-redirect",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A tiny Node.js microservice to redirect users to a different location.",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "nodemon --exec \"npm start\" -e \"js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxstbr/micro-redirect.git"
+  },
+  "author": "Max Stoiber <contact@mxstbr.com> (http://mxstbr.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mxstbr/micro-redirect/issues"
+  },
+  "homepage": "https://github.com/mxstbr/micro-redirect#readme",
+  "dependencies": {
+    "micro": "^7.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
