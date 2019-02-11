@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mxstbr/micro-redirect#readme",
   "dependencies": {
-    "micro": "^7.0.6"
+    "micro": "^7.3.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.10"
